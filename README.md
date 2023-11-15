@@ -16,21 +16,21 @@ This is a powerful and user-friendly tool designed to help both novice and exper
 ## Screenshots
 here are some of screenshots of the website
 ### User Registration Page
-![sigup](./images/Screenshot%202023-11-15%20163445.png)
+<img width="947" alt="Screenshot 2023-11-15 163935" src="https://github.com/MmukulKhedekar/Crypto-Paper-Trader/assets/36923816/dbc6d208-7ffb-44fb-bdc6-7b0c41cd547b">
 ### User Login Page
-![login](./images/Screenshot%202023-11-15%20163425.png)
+<img width="949" alt="Screenshot 2023-11-15 163754" src="https://github.com/MmukulKhedekar/Crypto-Paper-Trader/assets/36923816/27eefe9f-09db-40b6-940c-2df655a20862">
 ### Exchanges Page
-![05 11 2023_18 00 07_REC](./images/Screenshot%202023-11-15%20163533.png)
+<img width="946" alt="Screenshot 2023-11-15 163711" src="https://github.com/MmukulKhedekar/Crypto-Paper-Trader/assets/36923816/5b15b692-8fa3-4a5f-b0dd-987bd1fbea95">
 ### Markets Page (1)
-![05 11 2023_18 11 25_REC](./images/Screenshot%202023-11-15%20163626.png)
+<img width="948" alt="Screenshot 2023-11-15 163642" src="https://github.com/MmukulKhedekar/Crypto-Paper-Trader/assets/36923816/325ce048-f837-409d-a691-2281880cbf82">
 ### Markets Page (2)
-![05 11 2023_18 11 51_REC](./images/Screenshot%202023-11-15%20163642.png)
+<img width="947" alt="Screenshot 2023-11-15 163626" src="https://github.com/MmukulKhedekar/Crypto-Paper-Trader/assets/36923816/9665e92d-1f1d-417b-a52c-d5743b51ceec">
 ### Buy Cryptocurrency
-![05 11 2023_18 12 17_REC](./images/Screenshot%202023-11-15%20163711.png)
+<img width="947" alt="Screenshot 2023-11-15 163533" src="https://github.com/MmukulKhedekar/Crypto-Paper-Trader/assets/36923816/d12dc3ec-f856-4458-8d1e-b0d04f4fb9b3">
 ### Sell Cryptocurrency
-![05 11 2023_18 16 56_REC](./images/Screenshot%202023-11-15%20163754.png)
+<img width="960" alt="Screenshot 2023-11-15 163445" src="https://github.com/MmukulKhedekar/Crypto-Paper-Trader/assets/36923816/b74aae3c-1459-46c8-9ab2-e8a05ed92c7c">
 ### Transaction History
-![hi](./images/Screenshot%202023-11-15%20163935.png)
+<img width="960" alt="Screenshot 2023-11-15 163425" src="https://github.com/MmukulKhedekar/Crypto-Paper-Trader/assets/36923816/df61da75-1519-49ca-b00e-7ea688b25a77">
 
 ## Members
 - [@cruelkratos](https://www.github.com/cruelkratos) - 22115057
